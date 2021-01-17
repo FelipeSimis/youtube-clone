@@ -18,7 +18,7 @@ Responsive YouTube Clone for study purposes
 
 - [x] Dark/Light Theme
 
-![switchtheme](https://media.giphy.com/media/Kxvo3nZsxi39iJDWzy/giphy.gif)
+![Demo](https://github.com/FelipeSimis/youtube-clone/blob/main/demo.gif)
 
 Feel free to create the other pages, like:
 
